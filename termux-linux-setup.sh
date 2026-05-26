@@ -499,8 +499,8 @@ main() {
     step_update
     step_repos
     step_x11
-    step_desktop
     step_gpu
+    step_desktop
     step_audio
     step_apps
     step_python
